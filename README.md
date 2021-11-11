@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @adriacool
+- 👀 I’m interested in ...
+       math, physics, coding, graphic arts, drumming, dancing, baking, arts&crafts:-P
+- 🌱 I’m currently learning ...
+       python, financial math, calculus(again), desmos, sql, cobol, french 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+       adriafrance@my.unt.edu
+
+<!---
+adriacool/adriacool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
